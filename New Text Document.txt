@@ -1,0 +1,27 @@
+I recently hired Andrey a ReactJS typescript expert to help me with a project, and I couldn't be happier with the results. He was able to quickly understand the requirements of the project was extremely knowledgeable about ReactJS, typescript, and the AWS Serverless stack, and was able to provide valuable insights and recommendations throughout the process. The project was deployed through the AWS Amplify Console.
+
+Overall, the experience was seamless and efficient. I highly recommend Andrey for anyone in need of ReactJS typescript expertise. Five stars 🌟!
+
+
+
+
+
+
+// function generateWordList(words, numWords) {
+//     // Create an empty list to store the word list
+//     let wordList = [];
+  
+//     // Loop until we have generated the desired number of words
+//     while (wordList.length < numWords) {
+//       // Generate a random index to pick a word from the list
+//       let index = Math.floor(Math.random() * words.length);
+  
+//       // Add the word to the list if it is not already there
+//       if (!wordList.includes(words[index])) {
+//         wordList.push(words[index]);
+//       }
+//     }
+  
+//     // Return the final list of words
+//     return console.log(wordList);
+//   }
